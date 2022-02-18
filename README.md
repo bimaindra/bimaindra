@@ -1,9 +1,11 @@
 ### Hi 👋, I'm Bima
 
-[![LinkedIn](https://img.shields.io/static/v1?label=%20&message=LinkedIn&logo=LinkedIn&style=flat&labelColor=blue)](https://www.linkedin.com/in/bimaindra/)
-[![Telegram](https://img.shields.io/static/v1?label=%20&message=Telegram&logo=Telegram&style=flat&labelColor=ddd)](https://t.me/bimaindra)
+Currently working as FrontEnd Engineer. There's still a lot to learn.
 
+Ping me up on:
 
+[![Twitter](https://img.shields.io/static/v1?label=%20&message=Twitter&logo=Twitter&style=flat&labelColor=ddd)](https://twitter.com/bimaindraa)
+[![LinkedIn](https://img.shields.io/static/v1?label=%20&message=LinkedIn&logo=LinkedIn&style=flat&labelColor=blue)](https://www.linkedin.com/in/bimaindra)
 
 <!--
 **wongdarjo/wongdarjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
