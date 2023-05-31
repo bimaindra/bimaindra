@@ -1,6 +1,6 @@
-### Hi 👋, I'm Bima
+### Holaaa 👋
 
-Currently working as FrontEnd Engineer. There's still a lot to learn.
+I'm Bima. I'm working with HTML, CSS & Javascript mostly. 
 
 Ping me up on:
 
