@@ -4,7 +4,7 @@ I'm Bima. I'm working with HTML, CSS & Javascript mostly.
 
 Ping me up on:
 
-[![Twitter](https://img.shields.io/static/v1?label=%20&message=Twitter&logo=Twitter&style=flat&labelColor=ddd)](https://twitter.com/bimaindraa)
+[![Twitter](https://img.shields.io/static/v1?label=%20&message=X&logo=X&style=flat&labelColor=000)](https://twitter.com/bimaindraa)
 [![LinkedIn](https://img.shields.io/static/v1?label=%20&message=LinkedIn&logo=LinkedIn&style=flat&labelColor=blue)](https://www.linkedin.com/in/bimaindra)
 
 <!--
